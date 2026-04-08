@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NoQueryDatabase.Business", "NoQueryDatabase.Business\NoQueryDatabase.Business.csproj", "{1C4E0579-8E3D-4EA2-A86A-CBCBB3295CC8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NoQueryDatabase.Data", "NoQueryDatabase.Data\NoQueryDatabase.Data.csproj", "{38C699C9-DFB7-463B-9DD8-25CC99C34427}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NoQueryDatabase.Model", "NoQueryDatabase.Model\NoQueryDatabase.Model.csproj", "{C2674614-AF89-4A1A-934E-B53BC4CFA2D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NoQueryDatabase.Utility", "NoQueryDatabase.Utility\NoQueryDatabase.Utility.csproj", "{25CE12CE-93CD-4BFB-8965-404651F0ED33}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NoQueryDB.Api", "NoQueryDB.Api\NoQueryDB.Api.csproj", "{F0198C89-138B-4C3C-84B1-D9923363F523}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C4E0579-8E3D-4EA2-A86A-CBCBB3295CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C4E0579-8E3D-4EA2-A86A-CBCBB3295CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C4E0579-8E3D-4EA2-A86A-CBCBB3295CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C4E0579-8E3D-4EA2-A86A-CBCBB3295CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C699C9-DFB7-463B-9DD8-25CC99C34427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C699C9-DFB7-463B-9DD8-25CC99C34427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C699C9-DFB7-463B-9DD8-25CC99C34427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C699C9-DFB7-463B-9DD8-25CC99C34427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2674614-AF89-4A1A-934E-B53BC4CFA2D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2674614-AF89-4A1A-934E-B53BC4CFA2D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2674614-AF89-4A1A-934E-B53BC4CFA2D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2674614-AF89-4A1A-934E-B53BC4CFA2D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25CE12CE-93CD-4BFB-8965-404651F0ED33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25CE12CE-93CD-4BFB-8965-404651F0ED33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25CE12CE-93CD-4BFB-8965-404651F0ED33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25CE12CE-93CD-4BFB-8965-404651F0ED33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0198C89-138B-4C3C-84B1-D9923363F523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0198C89-138B-4C3C-84B1-D9923363F523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0198C89-138B-4C3C-84B1-D9923363F523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0198C89-138B-4C3C-84B1-D9923363F523}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEEAC148-60CE-440D-A53A-FBCBD50A8C77}
+	EndGlobalSection
+EndGlobal

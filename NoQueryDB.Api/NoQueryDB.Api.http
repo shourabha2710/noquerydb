@@ -1,0 +1,6 @@
+@NoQueryDB.Api_HostAddress = http://localhost:5108
+
+GET {{NoQueryDB.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
