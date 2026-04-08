@@ -80,8 +80,7 @@ builder.Services.AddCors(options =>
         {
             policy
                 .WithOrigins(
-      "https://devconsentportal.manipalfintech.com",
-      "https://devconsentportalapi.manipalfintech.com"
+      "https://noquerydbui-taupe.vercel.app"
    )
                 .AllowAnyHeader()
                 .AllowAnyMethod()
